@@ -2,5 +2,7 @@
   "dependencies": {
     "bootstrap": "^5.3.7",
     "react-router-dom": "^7.6.3"
+    "react-scripts": "^5.0.1"
+
   }
 }
